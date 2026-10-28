@@ -1,3 +1,5 @@
+![AI Generated](https://img.shields.io/badge/AI%20Generated-Gemini%203.1Pro-blue?style=for-the-badge)
+
 # 🛡️ DPP-Gate: Ecodesign Techno-Regulatory Gateway
 
 Disclaimer: Developed as an academic prototype exploring AI, Techno-regulation, and the Circular Economy.
